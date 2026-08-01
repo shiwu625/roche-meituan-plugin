@@ -1,0 +1,14 @@
+{
+  "id": "meituan-simulator",
+  "name": "美团外卖模拟器",
+  "version": "1.0.0",
+  "description": "本地模拟美团外卖，商户、购物车、订单记录、AI美食推荐，数据本地存储",
+  "author": "PluginDev","作者": "PluginDev",
+  "entry""条目": "https://raw.githubusercontent.com/你的Github用户名/roche-meituan-plugin/main/plugin.js",
+  "hash"“哈希”: "","哈希值": "","哈希值": "","哈希值": "",
+  "permissions": ["权限": [
+    "storage""存储","存储",
+    "ui","界面",
+    "ai:chat""ai:聊天""ai:聊天""ai:聊天"“ai：聊天”“ai：聊天”“ai：聊天”“ai：聊天”“ai：聊天”“ai：聊天”“ai：聊天”“ai：聊天”“ai：聊天”
+  ]
+}
